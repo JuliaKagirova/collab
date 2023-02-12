@@ -1,3 +1,1 @@
 # Collaboration
-
-git test text
